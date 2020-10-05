@@ -10,6 +10,10 @@
     "tiengviet",
     "khong dau"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hotrungnhan/vietnamese-non-tonemark"
+  },
   "author": "Kudou Sterain",
   "license": "MIT"
 }
