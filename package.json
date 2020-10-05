@@ -1,0 +1,15 @@
+{
+  "name": "vietnamese-non-tonemark",
+  "version": "1.0.0",
+  "description": "module chuyen tu tieng viet co dau sang tieng viet khong dau",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "tiengviet",
+    "khong dau"
+  ],
+  "author": "Kudou Sterain",
+  "license": "MIT"
+}
