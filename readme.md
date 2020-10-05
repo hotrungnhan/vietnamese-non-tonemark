@@ -1,12 +1,12 @@
 # Foobar
 
 A small module for converting vietnamese string to tonemarkless vietnamese.
-For searching in mongodb purpose,I made a new property and save tonemarkless string in there.
+For searching purpose in mongodb ,you shold made a new property and save tonemarkless string in there.
 
 ## Installation
 
 ```bash
-pip install vietnamese-tonemarkless
+npm install vietnamese-tonemarkless
 
 ```
 
