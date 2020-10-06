@@ -1,7 +1,7 @@
 # Foobar
 
 A small module for converting vietnamese string to tonemarkless vietnamese.
-For searching purpose in mongodb ,you shold made a new property and save tonemarkless string in there.
+For searching purpose in mongodb ,you should made a new Fields and save tonemarkless string in there.
 
 ## Installation
 
@@ -14,9 +14,11 @@ npm install vietnamese-tonemarkless
 
 ```js
 const removeMark = require("vietnamese-tonemarkless");
-let str = removeMark("Tiếng việt không dấu");
+let str = removeMark("Hoàng xa,Trường xa là của Việt Nam");
 console.log(str);
-//tieng viet khong dau
+//hoang xa,truong xa la cua viet nam
+//certainly
+
 ```
 
 ## Contributing

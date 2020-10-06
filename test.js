@@ -1,2 +1,2 @@
 const khongdau = require("./index");
-console.log(khongdau("đây là tiếng việt không dấu"));
+console.log(khongdau("Hoàng xa,Trường xa là của Việt Nam"));

@@ -1,18 +1,20 @@
 {
-  "name": "vietnamese-non-tonemark",
-  "version": "1.0.0",
+  "name": "vietnamese-tonemarkless",
+  "version": "1.0.2",
   "description": "module chuyen tu tieng viet co dau sang tieng viet khong dau",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "start": "node test.js"
   },
   "keywords": [
     "tiengviet",
-    "khong dau"
+    "khong dau",
+    "vietnamese",
+    "tonemark"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hotrungnhan/vietnamese-non-tonemark"
+    "url": "https://github.com/hotrungnhan/vietnamese-tonemarkless"
   },
   "author": "Kudou Sterain",
   "license": "MIT"
